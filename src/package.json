@@ -1,0 +1,25 @@
+{
+  "name": "ng2-debounce",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlvaDamian/ng2-debounce"
+  },
+  "author": {
+    "name": "Alva Damián",
+    "email": "alva.damian@yahoo.com.ar"
+  },
+  "keywords": [
+    "angular 4",
+    "ng2-debounce",
+    "debounce"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlvaDamian/ng2-debounce/issues"
+  },
+  "main": "ng2-debounce.umd.js",
+  "module": "ng2-debounce.js",
+  "jsnext:main": "ng2-debounce.js",
+  "typings": "ng2-debounce.d.ts"
+}
