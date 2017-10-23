@@ -183,7 +183,7 @@ gulp.task('compile', function () {
     'rollup:umd',
     'copy:build',
     'copy:manifest',
-    //'copy:readme',
+    'copy:readme',
     'clean:build',
     'clean:tmp',
     function (err) {

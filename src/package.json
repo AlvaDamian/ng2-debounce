@@ -1,6 +1,6 @@
 {
   "name": "ng2-debounce",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/AlvaDamian/ng2-debounce"
@@ -21,5 +21,10 @@
   "main": "ng2-debounce.umd.js",
   "module": "ng2-debounce.js",
   "jsnext:main": "ng2-debounce.js",
-  "typings": "ng2-debounce.d.ts"
+  "typings": "ng2-debounce.d.ts",
+
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0"
+  }
 }
